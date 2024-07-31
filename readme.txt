@@ -1,0 +1,1 @@
+To start a project type into this path: Shoping(TG Bot)\Bot.     "node bot.js" 
